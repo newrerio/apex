@@ -11,10 +11,8 @@ RButton::
 Send, {p down}{p up} 
 Send, {ctrl down}  
 Send, {p down}{p up}  
-Send, {p down}{p up} 
 Send, {p down}{p up}  
 Send, {p down}{p up}  
-Send, {p down}{p up} 
 Sleep 30
 Send, {ctrl up} 
 Return
